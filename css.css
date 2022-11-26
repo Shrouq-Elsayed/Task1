@@ -3,11 +3,6 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-image: url(Image.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
 section{
     background-color: hsl(212, 45%, 89%);
     display: flex;
