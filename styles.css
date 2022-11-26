@@ -7,9 +7,6 @@ section{
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
-    margin: 6%;
-    padding: 10px;
-    box-shadow: 4px 5px 13px #5c5c5c;
 }
 .div{
     display: flex;
